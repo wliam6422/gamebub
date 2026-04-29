@@ -105,16 +105,10 @@ This makes the design easier to edit, test, print, and reuse.
 ---
 
 
-## 🧩 Assembly Preview
+## 🧩 Assembly Preview & 📥 File (Download)
 
 [![Assembly Preview](https://drive.google.com/thumbnail?id=1b9lnFI10WoGPjBsSWaaWYgNLGcIwzq60)](https://drive.google.com/file/d/1b9lnFI10WoGPjBsSWaaWYgNLGcIwzq60/view?usp=sharing)
 
-
----
-
-## 📥 Assembly File (Download)
-
-You can download or view the full assembly image here:
 
 🔗 https://drive.google.com/file/d/1b9lnFI10WoGPjBsSWaaWYgNLGcIwzq60/view?usp=sharing
 
