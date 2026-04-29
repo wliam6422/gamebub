@@ -1,4 +1,4 @@
-"# 🎮 Game Bub – Parametric CAD Recreation (build123d)
+# 🎮 Game Bub – Parametric CAD Recreation (build123d)
 
 
 
@@ -154,4 +154,4 @@ Saved inside the **Generated parts/** folder.
 
 
 bash
-pip install build123d"
+pip install build123d
