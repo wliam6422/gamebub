@@ -25,6 +25,7 @@ The goal is to:
 ---
 
 ## 📂 Project Structure
+# 📂 Reference Parts
 ├── Reference parts/
 │ ├── Rear.stl
 │ ├── Front.stl
@@ -33,10 +34,11 @@ The goal is to:
 │ ├── FaceButtonArray.stl
 │ ├── SideButtonArray.stl
 │ └── ShoulderButtonArray.stl
-│
+# 📂 Generated parts
 ├── Generated parts/
 │ ├── (Generated STL + STEP files)
-│
+
+# 📂 Scripts
 ├── scripts/
 │ ├── front.py
 │ ├── rear.py
