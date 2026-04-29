@@ -9,14 +9,16 @@
 
 This project focuses on recreating key mechanical parts of the **Game Bub handheld** using **Python and the build123d CAD library**.
 
+The work is based on studying and referencing the original Game Bub open-source project:
+🔗 https://github.com/elipsitz/gamebub/tree/handheld
+
 The goal is to:
 
-- Study and reference original STL designs
-- Rebuild them as **parametric CAD models**
-- Enable easy modification, scaling, and customization
-- Export both **STL and STEP files** for manufacturing
-- View and inspect CAD models directly in VS Code using **ocp_vscode**
-
+- Study and analyze original STL designs  
+- Rebuild them as **parametric CAD models**  
+- Enable easy modification, scaling, and customization  
+- Export both **STL and STEP files** for manufacturing  
+- View and validate models using **ocp_vscode in VS Code**
 ---
 
 ## 🎯 Project Objective
