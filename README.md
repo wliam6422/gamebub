@@ -1,7 +1,5 @@
 # 🎮 Game Bub – Parametric CAD Recreation (build123d)
 
-![Game Bub logo](./docs/assets/logo.png)  
-[![Game Bub trailer](./docs/assets/video-poster.jpg)](https://www.youtube.com/watch?v=f16E5J6qljw)
 
 ---
 
